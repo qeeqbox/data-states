@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/data-states/main/data-states.png"></p>
 
 ## Data States
-Data states refer to structured and unstructured data divided into three categories (At Rest, In Use, and In Transit).
+Data states refer to structured and unstructured data divided into three categories (At Rest, In Use, and In Transit)
 
 #### At rest
 Data currently stored in a storage
